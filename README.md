@@ -1,6 +1,6 @@
 # AiHTP
 AI and HTP
-```markdown
+
 # AiHTP - AI-powered House-Tree-Person Psychological Test Analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -52,10 +52,9 @@ Not certified for clinical use. Always consult licensed professionals for mental
 ## License
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [MengAiDev]
 
 Permission is hereby granted... (standard MIT text)
-```
 
 Key elements included:
 1. Clear disclaimer banners
@@ -65,5 +64,3 @@ Key elements included:
 5. MIT license template
 6. Security best practices
 7. Dual API credential warnings
-
-Would you like me to add any specific sections or modify the legal wording?
