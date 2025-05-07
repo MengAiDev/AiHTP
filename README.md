@@ -51,16 +51,3 @@ Not certified for clinical use. Always consult licensed professionals for mental
 
 ## License
 MIT License
-
-Copyright (c) 2025 [MengAiDev]
-
-Permission is hereby granted... (standard MIT text)
-
-Key elements included:
-1. Clear disclaimer banners
-2. Compliance with AI provider requirements
-3. Ethical use notice
-4. Clinical validity disclaimer
-5. MIT license template
-6. Security best practices
-7. Dual API credential warnings
